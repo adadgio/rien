@@ -1,0 +1,9 @@
+{
+  "name": "@rien/api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "common": "^0.2.5"
+  }
+}
